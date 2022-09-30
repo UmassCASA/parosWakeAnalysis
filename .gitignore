@@ -1,2 +1,5 @@
 output/*
 datasets/*
+data/*
+
+**.DS_store
